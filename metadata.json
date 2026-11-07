@@ -1,0 +1,7 @@
+{
+  "name": "BANIPU - AI Study Planner",
+  "description": "Trợ lý lập kế hoạch học tập cá nhân hóa và quản lý năng lượng sinh học dựa trên Thuyết Tự Quyết (Self-Determination Theory) cho học sinh THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
